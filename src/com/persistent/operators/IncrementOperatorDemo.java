@@ -16,7 +16,7 @@ public class IncrementOperatorDemo {
 		int a = 3;
 		int b = ++a;
 
-		System.out.println(x+" and "+y);
+		System.out.println(a+" and "+b);
 		System.out.println("final value of x = " + a);
 		System.out.println("final value of y = " + b);
 	}
