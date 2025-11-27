@@ -4,7 +4,7 @@ public class SwitchMonthDaysEx8 {
 
 	public static void main(String[] args) {
 
-		byte M = 8;
+		byte M = 4;
 		int year = 2012;
 
 		switch (M) {

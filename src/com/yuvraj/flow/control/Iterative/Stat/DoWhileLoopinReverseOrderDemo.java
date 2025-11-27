@@ -10,6 +10,8 @@ public class DoWhileLoopinReverseOrderDemo {
 			System.out.println(i);
 			i--;
 		}while (i>0);
+		
+		System.out.println("now condition is false");
 	}
 
 }
