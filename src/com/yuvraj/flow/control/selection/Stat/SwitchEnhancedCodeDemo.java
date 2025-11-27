@@ -4,7 +4,7 @@ public class SwitchEnhancedCodeDemo {
 	
 	public static void main(String[] args) {
 		
-		int n = 1;
+		int n = 3;
 		
 		switch(n) {
 		//  The [->] symbol can also act as a break in a switch case
