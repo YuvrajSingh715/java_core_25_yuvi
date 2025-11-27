@@ -4,7 +4,7 @@ public class SwitchEnhancedExpressionDemo1 {
 	
 	public static void main(String[] args) {
 		
-		byte n = 6;
+		byte n = 7;
 		
 		String result = switch(n) {  //Without default case switch statement will give the error 
 		
@@ -19,7 +19,7 @@ public class SwitchEnhancedExpressionDemo1 {
 		
 		default -> "invalid";    // if you are print out like this than default case is mandatory
 		
-		};
+		};  //end of the switch statement
 		System.out.println(result); //without this line case will not print
 	}
 

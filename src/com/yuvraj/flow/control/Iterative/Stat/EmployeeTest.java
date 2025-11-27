@@ -16,5 +16,4 @@ public class EmployeeTest {
 			System.out.println("Designation: " + emp[I].getDesignation() + " :: " + "Salary: " + emp[I].getSalary());
 		}
 	}
-
 }

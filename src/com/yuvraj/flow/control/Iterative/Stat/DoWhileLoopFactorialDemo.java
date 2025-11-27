@@ -11,7 +11,7 @@ public class DoWhileLoopFactorialDemo {
 			fact = fact * i;
 			i--;
 		} while (i > 1);
-		System.out.println(fact);
+		System.out.println("factorial value of i = "+fact);
 	}
   
 }
