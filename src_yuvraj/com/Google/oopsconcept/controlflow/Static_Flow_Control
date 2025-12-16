@@ -1,0 +1,23 @@
+🔹 Static Control Flow – Main Points 🚀
++++++++++++++++++++++++++++++++++++++++
+
+ -> Happens when the class is loaded into JVM 🧠
+
+ -> Executes before the main() method ▶️
+
+ -> Runs only once per class 🔂
+
+ -> Static members execute top to bottom ⬇️
+
+ -> Order: Class Load → Static Variables → Static Blocks → main() 🧩
+
+ -> JVM follows source code order 📄
+
+ -> No object creation needed ❌🧱
+
+ -> Parent class static flow runs before child class 👨‍👦
+
+ -> Static context accesses only static members 🔒
+
+ -> Completes before instance control flow ⏳
+ 
