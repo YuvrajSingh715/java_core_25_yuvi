@@ -1,0 +1,23 @@
+🔥 Instance Flow Control – Interview Points 🚀
+=============================================
+
+ - Instance flow control is executed when an object is created 🧱, not when the class is loaded 📦.
+
+ - During object creation, instance variables and instance blocks execute before the constructor ⏳.
+
+ - Execution order inside a class is 👇
+   --> Instance Variables ➡️ Instance Blocks ➡️ Constructor
+
+ - Execution follows top-to-bottom order ⬇️ as written in the class.
+
+ - In inheritance, parent class instance members execute before child class instance members 👨‍👦.
+
+ - Parent class constructor executes before child class constructor 🏗️.
+
+ - Overridden methods are called based on runtime object 🔁, even if invoked from parent instance blocks or constructors.
+
+ - Forward reference is NOT allowed ❌ in instance variable initialization or instance blocks.
+
+ - Instance flow is executed every time an object is created 🔄.
+
+ - Instance blocks are mainly used for common initialization code ⚙️.
